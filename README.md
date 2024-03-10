@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Benyamin 👋
 
-<!--
-**benyamin96/benyamin96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who works with Python and Django and Go. I'm always eager to learn new technologies and tools. I started programming at the age of 15, and I like problem solving and creating useful applications. 
 
-Here are some ideas to get you started:
+## Contact me 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: benyamin.az@hotmail.com
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,go,mint,postgres,mysql,vscode,git,github,html,css" />
+  </a>
+</p>
