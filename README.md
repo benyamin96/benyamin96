@@ -7,7 +7,7 @@ I am a Python and Go developer. I am always eager to learn new technologies and 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,go,mint,postgres,mysql,redis,vscode,git,github,html,css" />
+    <img src="https://skillicons.dev/icons?i=py,django,go,mint,postgres,mysql,rabbitmq,redis,vscode,git,github,html,css" />
   </a>
 </p>
 
